@@ -8,3 +8,8 @@ Goal: Build projects, improve technical skills, and contribute to open source.
 
 ### To-Do List App
 A simple web application built using HTML, CSS, and JavaScript to manage daily tasks. Planned features include adding, completing, and deleting tasks.
+## Collaboration Log
+
+- **Partner:** Meghana G. (@Meghana878)
+- **Built together:** Added a `greet()` function using C.
+- **What I learned:** GitLens helps track code history, and Live Share enables real-time collaborative coding.
